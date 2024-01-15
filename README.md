@@ -33,26 +33,31 @@ Untracked files: - Неотслеживаемые файлы
 nothing added to commit but untracked files present (use "git add" to track) - Найдены файлы для добавления
 
 
- Задаем имя и email пользователя для текущего репозитория 23-12 303-15
+**Задаем имя и email пользователя для текущего репозитория 23-12 303-15**
  
 $ git config  --global user.name PK303-12 
 
 $ git config  --global user.email PK303-12@gmail.com
 
 
-Отменяют прокси
+**Отменяют прокси**
 
-git config --global –unset http.proxy
+$ git config --global –unset http.proxy
 
-git config --global --unset https.proxy
+$ git config --global --unset https.proxy
 
-git config --global --unset core.gitproxy
+$ git config --global --unset core.gitproxy
 
-Добавление файлов - git add *
+Добавление файлов - git add * 
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/5e2aa216-dead-45b3-8ce1-0203cde9ff14)
 
-git commit -m "G-02: Initial"
+**Для фиксации версии нужно указаь ее название, для этого создается сообщение** 
+$ git commit -m "G-02: Initial"
+
+**Выводим информацию о фиксации** 
+$ git logl"
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/f1146ee2-bd13-49f3-ad2a-697ec8363ded)
 
 
 
