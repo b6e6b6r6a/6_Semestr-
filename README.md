@@ -62,5 +62,12 @@ $ git logl"
 
 **Подтверждение git**
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/9284ce83-fff5-4fd3-902e-6b0a049d0db8)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/5516acef-cf5d-44c7-9649-2f3000b79913)
+
+
+
+
 
 
