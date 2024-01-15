@@ -57,7 +57,10 @@ $ git commit -m "G-02: Initial"
 
 **Выводим информацию о фиксации** 
 $ git logl"
+
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/f1146ee2-bd13-49f3-ad2a-697ec8363ded)
+
+**Подтверждение git**
 
 
 
