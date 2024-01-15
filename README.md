@@ -69,5 +69,6 @@ $ git logl"
 
 
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/a891cce3-5cc1-4eb7-ac85-4ab5fa9ccb41)
 
 
