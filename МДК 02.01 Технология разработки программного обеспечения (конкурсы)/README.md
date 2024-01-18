@@ -4,3 +4,4 @@
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/bd839f7d-6c2d-462a-8f90-21a20066a3d6)
 
+[Траектория сертификат.pdf](https://github.com/b6e6b6r6a/6_Semestr-/files/13976161/default.pdf)
