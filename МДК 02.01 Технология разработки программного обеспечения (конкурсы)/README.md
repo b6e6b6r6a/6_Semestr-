@@ -4,6 +4,8 @@
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/bd839f7d-6c2d-462a-8f90-21a20066a3d6)
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/6aba56f3-e851-4707-b80a-732f87f0696a)
+
 [Траектория сертификат.pdf](https://github.com/b6e6b6r6a/6_Semestr-/files/13976161/default.pdf)
 
 [Сертификат траектория.pdf](https://github.com/b6e6b6r6a/6_Semestr-/files/13976177/default.pdf)
