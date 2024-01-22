@@ -80,6 +80,15 @@ $ git logl"
 
 # ЛК2 22.01.24.
 
+1. Если есть папка _.git_, то команду _git init_ выполнять не нужно
+2. Команды _config_ настраиваются на ПК 1 раз
+3. _git remote_ указывается 1 раз
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/1190e164-00df-44c4-976b-c1d93667afb3)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/5f3e4844-f4eb-4e1f-8f66-c927c8870f2a)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/0869ec52-ce89-458f-9c6b-3bc948ccfa35)
 
 
 
