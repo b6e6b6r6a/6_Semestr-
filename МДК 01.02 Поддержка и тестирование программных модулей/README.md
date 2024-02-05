@@ -102,6 +102,7 @@
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/6ec5f84f-3f11-4768-9ec6-7e16f7310ce7)
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/43ffec57-eb50-4e32-bd8d-037950166436)
 
 
 
