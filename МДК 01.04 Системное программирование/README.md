@@ -96,8 +96,22 @@ $ git logl"
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/0c84387a-5eac-45e1-87ef-9a8c873504ae)
 
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/95a62750-7bc7-4acf-9e4b-bad7852b03c5)
 
 
+# ЛК 05.02.24 Работа с файлами
+
+1. Создание
+2. Перенесение
+3. Редактирование
+4. Удаление
+
+Обычный или regular файл 
+1)touch
+2)nano
+3)mv
+4)rm
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/09fb680c-fbee-43cc-91d6-f0d999fcb950)
 
 
 
