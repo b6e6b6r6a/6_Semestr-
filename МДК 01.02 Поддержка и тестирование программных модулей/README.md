@@ -90,9 +90,17 @@
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/2d5af1bf-8d55-4246-bbec-6300ebe64592)
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/d666abbb-0d86-437d-87ce-137d57ec552a)
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/ac46959a-4a5d-49d7-af34-65ac80e7e5e9)
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/418741d4-5153-4bba-ba96-00c91c2bcd23)
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/b32912eb-23d2-46df-a5d3-af061a03688c)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/766fa07e-3b01-46af-b7c4-3825f603bd1d)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/6ec5f84f-3f11-4768-9ec6-7e16f7310ce7)
 
 
 
