@@ -86,6 +86,9 @@
 7. Не забываем про пользователя
 
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/f5b5bbd6-1ab9-425a-b6d2-490c7be9350b)
+
+
 
 
 
