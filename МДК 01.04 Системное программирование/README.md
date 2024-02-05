@@ -106,14 +106,47 @@ $ git logl"
 3. Редактирование
 4. Удаление
 
-Обычный или regular файл 
-1)touch
-2)nano
-3)mv
-4)rm
+**Обычный или regular файл**
+
+1)touch kstr.txt
+
+2)nano kstr.txt/home/stud/'Рабочий стол'
+
+3)mv  kstr.txt/home/stud/'Рабочий стол'
+
+4)rm /home/stud/'Рабочий стол'/kstr.txt
+
+5)cat /home/stud/'Рабочий стол'/kstr.txt
+
+mv - перемешение
+
+rm - удалить(каталог можно удалить только с -r, тк там внутри файлы)
+
+ls - просмотреть
+
+-r - рекурсия
+
+cat - чтение
+
+mkdir - создает директорию
+
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/09fb680c-fbee-43cc-91d6-f0d999fcb950)
 
+**Папка (directory)**
 
+1)mkdir /home/stud/ kss
+
+2)mkdir /home/stud/kss  home/stud/ksss
+
+3)touch home/stud/ksss/mayy
+
+4)touch home/stud/ksss
+
+5)rm -r home/stud/ksss
+
+
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/e2cfc2a9-22ac-4713-86a1-82495556fb3a)
 
 
 
