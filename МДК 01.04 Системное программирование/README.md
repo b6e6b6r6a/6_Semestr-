@@ -130,6 +130,13 @@ cat - чтение
 
 mkdir - создает директорию
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/32f62c50-9ae3-49f3-a5da-902b903286d3)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/3633b550-9b0c-406e-a67c-e97038c350c8)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/d8c9f8c8-9e8c-40de-9d21-26a449eea8c4)
+
+
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/09fb680c-fbee-43cc-91d6-f0d999fcb950)
 
 **Папка (directory)**
