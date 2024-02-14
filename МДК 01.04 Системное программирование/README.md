@@ -155,6 +155,45 @@ mkdir - создает директорию
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/e2cfc2a9-22ac-4713-86a1-82495556fb3a)
 
+**Устройства:**
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/95c89a47-8905-4f0e-a0d5-81b9623ce820)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/c9963467-c973-4846-adef-61923c1c1541)
+
+c - cимвольные
+
+блочные (флешки)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/4e7e40a9-a0d6-40d4-b54b-e1b20af511b3)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/170975f4-2881-495b-81b4-03baacb94913)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/e02e582d-1780-4660-8f70-861824570a24)
+
+b - блок
+
+Пытались создать флешку
+
+
+Файлам присваиваются уникальные номера - inod, посмотреть команды - ls-i1
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/d0d920a0-1b77-42a9-a0df-6c928dba226a)
+
+Жесткие ссылки имеют тот же номер что и файл и это можно использовать, чтобы найти все жесткие ссылки
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/e19ef99e-e730-41f0-b905-2a582fd11189)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/de71be1d-d2e4-4ae2-a15e-cd430431df02)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/a0da9c60-d9ba-4e4b-b146-4d325b48d8ee)
+
+
+
+
+
+
+
 
 
 
