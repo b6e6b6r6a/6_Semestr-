@@ -215,6 +215,9 @@ b - блок
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/d21b5656-6b88-4277-804e-688f1a708f72)
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/54c60c21-bcf3-4bb3-9060-b80bd7ed6881)
+
+
 
 
 https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit
