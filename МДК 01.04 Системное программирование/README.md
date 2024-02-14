@@ -95,8 +95,10 @@ $ git logl"
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/0c84387a-5eac-45e1-87ef-9a8c873504ae)
 
-
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/95a62750-7bc7-4acf-9e4b-bad7852b03c5)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/75649a9e-e5ca-4c98-a3a1-51971ca9af3c)
+
 
 
 # ЛК 05.02.24 Работа с файлами
@@ -155,6 +157,15 @@ mkdir - создает директорию
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/e2cfc2a9-22ac-4713-86a1-82495556fb3a)
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/11db9fb9-6543-46fe-8cae-0e326efc143b)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/8cb1a16b-d7da-4337-bef4-3926148c068f)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/b8aeb9e3-cd79-4a7d-907b-079dc7470915)
+
+
+
+
 **Устройства:**
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/95c89a47-8905-4f0e-a0d5-81b9623ce820)
@@ -189,7 +200,7 @@ b - блок
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/a0da9c60-d9ba-4e4b-b146-4d325b48d8ee)
 
 
-
+https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit
 
 
 
