@@ -199,6 +199,23 @@ b - блок
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/a0da9c60-d9ba-4e4b-b146-4d325b48d8ee)
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/4e1af64a-ac5b-4f08-b386-ec6d417ea1b2)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/94900693-12da-4265-bad9-ab2f9c2fc5c1)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/a1087f1e-8835-4a0d-ad9c-90edef1f8ea7)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/4bd85d49-9a2e-4c92-92ab-d0adf70e7807)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/216aa7d5-e409-4fe6-a0f1-a1b7a83ac36f)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/dd73b383-4177-47da-aafa-b5e8c8a42dc3)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/80499013-1a20-42f1-8b1e-f2d23764d498)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/d21b5656-6b88-4277-804e-688f1a708f72)
+
+
 
 https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit
 
