@@ -217,7 +217,11 @@ b - блок
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/54c60c21-bcf3-4bb3-9060-b80bd7ed6881)
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/49fbf817-cfb0-428d-8c50-6b47a0b97008)
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/97699767-6c2f-455d-9209-bd43c98db249)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/e42f112e-44f6-4bb9-92bb-639080492be8)
 
 
 https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit
