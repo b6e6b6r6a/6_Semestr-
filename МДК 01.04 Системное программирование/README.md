@@ -226,12 +226,30 @@ b - блок
 
 https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit
 
+# ЛК 19.02.24 Скрипт на создание и удаление пользователя
 
 
 
+Имя пользователя/Место под пароль/Номер пользователя/Номер группы пользователя/название группы/Домашняя директория пользователя/Терминал пользователя 
 
+Создаем пользователя
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/9509879a-508e-411b-a86b-6d45293c538d)
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/88a2410c-eba2-4153-8db1-5c5859987748)
 
+Переключаем ползователя
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/fe232fcf-6260-48d0-9df9-b99f86a70008)
+
+Создаем пароль для нашего пользователя
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/7e16de77-8a0e-4455-b4da-c9da5218a35b)
+
+Создаем пользователя в нашем новом пользователе при помощи сркипта
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/c2aa04e9-8daa-475f-b426-de265914d520)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/8923ea80-fb63-4ae7-a238-a60bc7b28843)
 
 
 
