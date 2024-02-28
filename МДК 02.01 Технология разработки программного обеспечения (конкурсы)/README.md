@@ -10,10 +10,13 @@
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/abaea01f-de58-4598-9100-c7e144fdcded)
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/ec8b9a95-6348-4029-81f7-418f021644e2)
+
+
 [Траектория сертификат.pdf](https://github.com/b6e6b6r6a/6_Semestr-/files/13976161/default.pdf)
 
 [Сертификат траектория.pdf](https://github.com/b6e6b6r6a/6_Semestr-/files/13976177/default.pdf)
 
 [Актионада сертификат.pdf](https://github.com/b6e6b6r6a/6_Semestr-/files/14327526/default.pdf)
 
-![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/a35a9b7b-5f21-442e-9516-745818569f8b)
+
