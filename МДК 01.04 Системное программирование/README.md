@@ -224,9 +224,8 @@ b - блок
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/e42f112e-44f6-4bb9-92bb-639080492be8)
 
 
-https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit
 
-# ЛК 19.02.24 Скрипт на создание и удаление пользователя
+# ЛК3 19.02.24 Скрипт на создание и удаление пользователя
 
 
 
@@ -253,6 +252,50 @@ https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit
 
 
 
+# ЛК4 04.03.24 Структура памяти процесса 
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/aec0d04a-b2b9-427e-9c95-3aaa6b4e44b3)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/96e1a93f-619a-4cbe-9165-1b536f677ac6)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/3d72fb07-40fe-4e8c-9a1a-dc6941bdc39f)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/83fa1a6e-158b-4b61-99b6-a40c601a9361)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/8195be3b-28b1-40e5-82d6-74b5cab05dcc)
+
+PID - номера поцесса (на винде в диспетчере задач смотрим)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/a98b6c71-f6e3-49a9-a88f-eff1070a8ab1)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/31f6269f-0329-4084-af26-75ad2d1f2919)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/de6ff1c7-40f9-44b6-8501-7daace1c8be8)
+
+Память запоняется в определенные ячейки(разные)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/77589065-f271-45c2-80c9-b8910c4c9bdb)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit
 
 
 
