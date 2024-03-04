@@ -276,10 +276,19 @@ PID - номера поцесса (на винде в диспетчере за�
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/77589065-f271-45c2-80c9-b8910c4c9bdb)
 
+Библиотеки:
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/d7c43635-31bb-42a3-ad8f-5b207be28f54)
 
+Область данных и текст(код):
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/671f9271-4922-4e5b-bf3b-8dc128da2fb1)
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/e306985d-2954-4fdf-b994-f1946d369af3)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/11877113-51d8-42d3-9d61-af83a04bb345)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/3a0573ff-f1df-473f-b76d-3c9910715277)
 
 
 
