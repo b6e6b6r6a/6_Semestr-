@@ -247,18 +247,66 @@
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/b65ab072-f4eb-4395-a4cf-3f2463ce93ec)
 
-![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/a1d0608b-8e62-4f0d-93cc-53e24b29d57d)
 
-![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/0147547b-9537-466d-baf6-432d3cd50556)
 
-![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/3d1ab90f-3e73-42f1-b5a8-700500ba8f64)
 
-![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/6c74d1c0-5669-4b37-8dc4-c7abd442ade2)
+
+
+
+
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/7b8d31fd-0a39-4798-b4e4-3a64873b8524)
 
 
+**Баг репорт**
 
+**ID и Заголовок:**
+
+1. Поле для ввода email должно быть обязательным для заполнения
+2. Максимальная длина 20
+3. Знак собака
+4. Хотябы одна цифра в почте
+
+**Шаги воспроизведения:**
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/2e7b25f8-7fe9-4162-872d-5a9a2614e083)
+
+**Результаты:**
+1. Ожидаемый результат - вывод ошибки
+   
+   Фактический результат - вывод ошибки
+
+   ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/ad9b6ab9-4767-43c3-a65e-0b7b4bf6772e)
+   
+
+3. Ожидаемый результат - вывод ошибки
+   
+   Фактический результат - вывод ошибки
+
+   ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/0147547b-9537-466d-baf6-432d3cd50556)
+   
+
+5. Ожидаемый результат - вывод ошибки
+   
+   Фактический результат - вывод ошибки
+
+   ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/6c74d1c0-5669-4b37-8dc4-c7abd442ade2)
+   
+
+7. Ожидаемый результат - вывод ошибки
+   
+   Фактический результат - вывод ошибки
+
+   ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/3d1ab90f-3e73-42f1-b5a8-700500ba8f64)
+  
+
+**Окружение:**
+
+https://www.online-python.com/
+
+**Приоритет:**
+
+Каждое требование к заполнению email имеет высокий приоритет
 
 
 
