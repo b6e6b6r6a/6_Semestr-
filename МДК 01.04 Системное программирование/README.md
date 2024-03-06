@@ -244,11 +244,33 @@ b - блок
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/7e16de77-8a0e-4455-b4da-c9da5218a35b)
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/5eccff94-37df-4d46-93d5-85d0516f21db)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/0db71c7b-6898-436f-9e3b-e9a76b06de1e)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/c7baa1f1-c565-4a0c-8ebd-19c40dbbca18)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/b6414a5c-e5fc-4aeb-9ce6-3006eecf98c2)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/45714afb-bd26-43e9-8258-9353002b4fe9)
+
+
 Создаем пользователя в нашем новом пользователе при помощи сркипта
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/c2aa04e9-8daa-475f-b426-de265914d520)
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/8923ea80-fb63-4ae7-a238-a60bc7b28843)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/861e9a25-1bb5-4d5f-8625-e3f700e9649d)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/8b35d716-c84f-41fa-93f4-a6fb654df710)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/4a87bb05-ac7f-42af-9781-c9c960fd84df)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/9d795aa5-49a5-45ac-8e41-93934fe7d832)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/e9e07fee-bfcf-4ef0-876a-a43798d016c2)
+
 
 
 
