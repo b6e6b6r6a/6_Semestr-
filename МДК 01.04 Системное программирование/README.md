@@ -271,6 +271,7 @@ b - блок
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/e9e07fee-bfcf-4ef0-876a-a43798d016c2)
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/f1725982-5196-4729-b239-18020addf68a)
 
 
 
