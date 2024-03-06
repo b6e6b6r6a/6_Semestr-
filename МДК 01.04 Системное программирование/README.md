@@ -316,9 +316,15 @@ PID - номера поцесса (на винде в диспетчере за�
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/3a0573ff-f1df-473f-b76d-3c9910715277)
 
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/5dfad536-aac3-48f9-83d8-7ec9cd48b3cb)
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/bb3ce670-1313-4614-9a99-fd8fda8a88bd)
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/8ea8d718-5952-484d-9ccd-63b8be08fdc8)
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/28587c19-1c89-468b-bcac-743190dad1f6)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/048b9bfa-6c7b-4ddd-ac0a-0ff3129a0a6f)
 
 
 
