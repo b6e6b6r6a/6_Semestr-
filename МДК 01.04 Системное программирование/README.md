@@ -358,9 +358,13 @@ PID - номера поцесса (на винде в диспетчере за�
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/1b1ec900-73c3-4f8d-bd09-b78aafa0e492)
 
+Сотояние процессса: Sleeping
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/4a0d4a9b-e92e-4ab4-ae4c-96ed0ee0206e)
 
+Сотояние процессса: Zombie
 
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/bad08e57-3053-4899-9b6d-647ba97e5947)
 
 **Смерть процесса**
    
@@ -373,6 +377,9 @@ PID - номера поцесса (на винде в диспетчере за�
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/7bae567d-c610-4bb2-a5aa-5cfecf5dd6e0)
 
+**Сигналы**
+   
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/642f829f-25bc-4247-b937-39563f9f4031)
 
 
 
