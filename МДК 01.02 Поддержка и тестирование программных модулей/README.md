@@ -1,3 +1,5 @@
+# [testing-template](https://docs.google.com/document/d/1wRXlnjaEMQ6PG2S6FodHBrSMNYoKrxfD/edit#heading=h.gjdgxs)
+
 # ЛК1 22.01.24 Основы тестирования
 
 [Минимальная зп](https://zvenigorod.hh.ru/vacancy/91095485?query=тестировщик&hhtmFrom=vacancy_search_list)  
