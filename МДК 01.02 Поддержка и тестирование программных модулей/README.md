@@ -106,6 +106,33 @@
 
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/43ffec57-eb50-4e32-bd8d-037950166436)
 
+Несохраненная работа
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/e8376428-77db-4c95-b3f4-edaea71ee796)
+
+Ответ сайта
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/0420d4e7-a873-4d7f-839d-6d7babb12444)
+
+Параметры
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/9ad7a73b-1443-45a3-8ebf-36f27c46a55d)
+
+Ответ с параметрами
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/58e20e60-c75a-4548-a9c6-f070d2fd7389)
+
+Авторизация имеет разные типы и ы неокторых используются токены и тп от разрабов
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/e9c5f127-d1fd-4a20-887c-8ddf5eccf196)
+
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/23ad2dab-cf6b-43cc-a14f-e6b9bf3c122c)
+
+В теле находятся типы передачи информации
+![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/eb5d3e29-4fb6-46dc-9b43-00b76d217c59)
+
+
+
+
+
+
+
+
 # ЛК2 12.02.2024 Разработка через тестирование TDD (test driven development)
 
 Жизненный цикл ПО
