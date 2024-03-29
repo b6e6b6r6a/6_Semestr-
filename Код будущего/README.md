@@ -3,3 +3,5 @@
 [Реплит](https://replit.com/@b6e6b6r6a/TgBotHtml#main.py)
 
 [Ggfgre](https://drive.google.com/drive/folders/17Uv2c3aTzMatF4BxieAIHv_HwnIhNLS5?usp=sharing)
+
+[Прибыль](https://docs.google.com/document/d/1M2oqIa77kVXdJ7vMpZxfQAJ_SAO2xHQUYBEZk1Bjia4/edit)
