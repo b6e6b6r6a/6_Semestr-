@@ -126,7 +126,7 @@
 В теле находятся типы передачи информации
 ![image](https://github.com/b6e6b6r6a/6_Semestr-/assets/113089548/eb5d3e29-4fb6-46dc-9b43-00b76d217c59)
 
-
+[Взлом БД](https://docs.google.com/document/d/1-1V4449umGOQKfiTcuN3G1jdzefOPmROPUqBGT8o_GU/edit)
 
 
 
