@@ -1,4 +1,5 @@
 # [testing-template](https://docs.google.com/document/d/1wRXlnjaEMQ6PG2S6FodHBrSMNYoKrxfD/edit#heading=h.gjdgxs)
+# https://docs.google.com/document/d/1pmdmu5aaowerA8I1RNKMvuX5ygiDKSYBq8Vo9u6SQi8/edit
 
 # ЛК1 22.01.24 Основы тестирования
 
